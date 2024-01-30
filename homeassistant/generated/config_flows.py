@@ -208,6 +208,7 @@ FLOWS = {
         "guardian",
         "habitica",
         "harmony",
+        "hello_hashtag",
         "heos",
         "here_travel_time",
         "hisense_aehw4a1",
